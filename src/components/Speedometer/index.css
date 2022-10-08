@@ -1,0 +1,42 @@
+/* Write your CSS here */
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  color: #ffff;
+  font-family: Roboto;
+  font-style: italic;
+}
+.image {
+  height: 250px;
+}
+.button {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  color: #ffff;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.blue {
+  background-color: #0b69ff;
+  border: 0px;
+}
+.speed-count {
+  color: #ffff;
+  font-family: Roboto;
+  font-size: larger;
+}
+.description {
+  color: #ffff;
+  font-size: small;
+  font-style: normal;
+}
+.black {
+  background-color: #07080c;
+  border: 2px solid #94a3b8;
+  color: #94a3b8;
+}
